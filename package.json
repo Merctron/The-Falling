@@ -11,6 +11,5 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "0.10.31"
   }
 }
